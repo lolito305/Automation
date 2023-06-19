@@ -37,20 +37,20 @@ Once the job is completed, an email notification will be sent to the specified r
 
 The PDF report (report.pdf) will be generated, containing the analyzed data and a price distribution plot.
 
-Customization
+## Customization
 Modify the scraping logic by editing the scrape_website function in main.py.
 Adjust the data analysis process by modifying the analyze_data function in main.py.
 Customize the appearance and styling of the PDF report by adjusting the create_pdf_report function in main.py.
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
 
-Authors
+## Authors
 Johnny S. Perez
-Acknowledgments
+## Acknowledgments
 This tool was inspired by the need for automating web scraping tasks and providing data analysis in a presentable format.
 
-Troubleshooting
+## Troubleshooting
 If you encounter any errors or issues while running the tool, please check the log file (scraping.log) for detailed error messages and traceback.
