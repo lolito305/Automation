@@ -26,7 +26,7 @@ The Academic Task Management App is a Python application built with Tkinter that
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/academic-task-management-app.git
+   git clone https://github.com/lolito305/academic-task-management-app.git
 Change to the project directory:
 
 shell
