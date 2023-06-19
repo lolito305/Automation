@@ -19,7 +19,7 @@ Install the required dependencies:
 shell
 Copy code
 pip install -r requirements.txt
-Usage
+## Usage
 Set the necessary configurations in the config.py file:
 
 competitor_url: The URL of the website you want to scrape the prices from.
