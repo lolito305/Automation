@@ -14,7 +14,7 @@ This is a Python-based web scraping and data analysis tool that allows you to au
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/lolito305/Automation/blob/main/automation/web_scraping.py
 Install the required dependencies:
 shell
 Copy code
