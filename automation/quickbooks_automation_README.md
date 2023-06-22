@@ -17,7 +17,7 @@ This script enables automated invoice creation and management using the QuickBoo
 
 Install the dependencies:
 
-   ```shell
+shell
 Copy code
 pip install -r requirements.txt
 Set up QuickBooks API credentials:
@@ -27,7 +27,7 @@ Replace the placeholder values in the script with your own credentials.
 Usage
 Run the script:
 
-   ```shell
+shell
 Copy code
 python invoice_automation.py
 Enter the required information when prompted:
@@ -45,7 +45,7 @@ Recipient Email: The email address of the recipient.
 Customer ID: The ID of the customer.
 Follow the script's instructions to create and manage invoices.
 
-## Script Functions
+Script Functions
 create_invoice: Creates an invoice with the specified details.
 get_customer_info: Retrieves information about a customer based on the name.
 send_invoice_email: Sends an invoice via email to the recipient.
@@ -57,5 +57,5 @@ main: Main function that orchestrates the invoice creation and management proces
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+License
 This project is licensed under the MIT License.
