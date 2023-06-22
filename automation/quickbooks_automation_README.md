@@ -14,6 +14,7 @@ This script enables automated invoice creation and management using the QuickBoo
 
    ```shell
    git clone https://github.com/your-username/quickbooks-invoice-automation.git
+
 Install the dependencies:
 
    ```shell
