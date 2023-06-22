@@ -16,7 +16,7 @@ This script enables automated invoice creation and management using the QuickBoo
    git clone https://github.com/your-username/quickbooks-invoice-automation.git
 Install the dependencies:
 
-```shell
+   ```shell
 Copy code
 pip install -r requirements.txt
 Set up QuickBooks API credentials:
@@ -26,7 +26,7 @@ Replace the placeholder values in the script with your own credentials.
 Usage
 Run the script:
 
-```shell
+   ```shell
 Copy code
 python invoice_automation.py
 Enter the required information when prompted:
